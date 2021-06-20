@@ -1,0 +1,4 @@
+I, Nama N V S S Hari Krishna (170050077) states that I have used
+	1. https://www.geeksforgeeks.org/python-linear-programming-in-pulp/ for pulp
+	2. Slides for the algorithms
+for the completion of this assignment

@@ -1,0 +1,22 @@
+python solve.py
+    command to run all tasks and save all plots (in docker)
+    "python solve.py -t 0" does the same thing
+
+python solve.py -t 2/3/4/5
+    command to run each task separately is
+
+-s/--seeds          number of seeds             integer
+-epi/--episodes     number of episodes          integer
+-st/--stochastic    stochastic for task 4       true or false
+-alg/--algorithm    algorithm or agent          sarsa or qlearning or esarsa
+-act/--actions      number of actions           4 or 8
+-eps/--epsilon      epsilon                     float in (0, 1)
+-alp/--alpha        alpha                       float in (0, 1)
+-g/--gamma          gamma                       float in [0, 1]
+
+these params allow us to run custom episodes
+
+python solve.py -t 9 [other args]
+    command to run custom episodes
+    Example:
+        python solve.py --task 9 -alg esarsa -st false -act 8

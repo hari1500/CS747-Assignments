@@ -1,0 +1,15 @@
+../instances/i-1.txt, 0.001, 878.0999999999124
+../instances/i-1.txt, 0.005, 312.7399999996311
+../instances/i-1.txt, 0.01, 302.30000000060477
+../instances/i-1.txt, 0.05, 1040.8199999980186
+../instances/i-1.txt, 0.1, 2058.7599999972304
+../instances/i-2.txt, 0.001, 4351.32
+../instances/i-2.txt, 0.005, 1873.42
+../instances/i-2.txt, 0.01, 933.04
+../instances/i-2.txt, 0.05, 1140.2
+../instances/i-2.txt, 0.1, 2117.56
+../instances/i-3.txt, 0.001, 6424.699999991222
+../instances/i-3.txt, 0.005, 1857.7200000025573
+../instances/i-3.txt, 0.01, 1203.1800000023163
+../instances/i-3.txt, 0.05, 2286.580000002855
+../instances/i-3.txt, 0.1, 4327.2600000032435
